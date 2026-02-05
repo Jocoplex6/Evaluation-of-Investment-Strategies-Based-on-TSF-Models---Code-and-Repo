@@ -9,10 +9,12 @@ All reported metrics in the paper are derived exclusively from the contents of t
 
 ### Directory overview
 
-results/
-─ Global metrics/
-─ Metrics by company/
-─ Predictions per stock by each model/
+The `results/` directory contains the following subfolders:
+
+- `Global metrics/`  
+- `Metrics by company/`  
+- `Predictions per stock by each model/`
+
 
 ---
 
